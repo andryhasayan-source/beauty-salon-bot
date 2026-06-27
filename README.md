@@ -100,7 +100,7 @@ Source code is not public. Delivered as a turnkey solution for any beauty busine
 **Заказать · Order:**
 
 - 🌐 [shashevpro.ru](https://www.shashevpro.ru)
-- 🛒 [kwork.ru/user/andreysha256](https://kwork.ru/user/andreysha256)
+- 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
 - ✉️ programmer@shashevpro.ru
 - 💬 [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
 
