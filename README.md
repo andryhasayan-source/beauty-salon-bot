@@ -102,7 +102,7 @@ Source code is not public. Delivered as a turnkey solution for any beauty busine
 - 🌐 [shashevpro.ru](https://www.shashevpro.ru)
 - 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
 - ✉️ programmer@shashevpro.ru
-- 💬 [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
+- 💬 [vk.com/shashevpro](https://vk.com/shashevpro)
 
 ---
 
